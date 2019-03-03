@@ -16,12 +16,12 @@
                 "zh-cn": "首次出版"
             }
         },
-        "title": "Template (JavaScript)",
+        "title": "go eCharger",
         "titleLang": {
-            "en": "Template (JavaScript)",
-            "de": "Vorlage (JavaScript)",
-            "ru": "Шаблон (JavaScript)",
-            "pt": "Template (JavaScript)",
+            "en": "go eCharger",
+            "de": "go eCharger",
+            "ru": "go eCharger",
+            "pt": "go eCharger",
             "nl": "Sjabloon (JavaScript)",
             "fr": "Modèle (JavaScript)",
             "it": "Template (JavaScript)",
@@ -46,7 +46,7 @@
         ],
         "keywords": [
             "ioBroker",
-            "template",
+            "go eCharger",
             "Smart Home",
             "home automation"
         ],
@@ -66,7 +66,7 @@
         "adminTab": {
             "singleton": true,
             "name": {
-                "en": "Template (JavaScript)",
+                "en": "go eCharger",
                 "de": "Vorlage (JavaScript)",
                 "ru": "Шаблон (JavaScript)",
                 "pt": "Template (JavaScript)",
